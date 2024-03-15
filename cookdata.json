@@ -1,0 +1,184 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Classic Spaghetti Bolognese",
+    "short_description": "A classic Italian pasta dish with rich tomato sauce and savory ground beef.",
+    "ingredients": [
+      "400 g spaghetti",
+      "500 g ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "500 ml tomato sauce",
+      "100 ml red wine",
+      "50 g grated Parmesan cheese",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "45 min",
+    "calories": "450 calorie",
+    "recipe_image": "https://example.com/spaghetti_bolognese.jpg"
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Grilled Salmon with Lemon Herb Butter",
+    "short_description": "Delicious grilled salmon fillets topped with a flavorful lemon herb butter sauce.",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 lemons, sliced",
+      "50 g butter, melted",
+      "2 cloves garlic, minced",
+      "2 tbsp chopped fresh parsley",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "20 min",
+    "calories": "350 calorie",
+    "recipe_image": "https://example.com/grilled_salmon.jpg"
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Vegetable Stir-Fry with Tofu",
+    "short_description": "A healthy and flavorful stir-fry loaded with colorful vegetables and tofu.",
+    "ingredients": [
+      "300 g firm tofu, cubed",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "1 carrot, julienned",
+      "100 g broccoli florets",
+      "120 ml soy sauce",
+      "2 tbsp sesame oil",
+      "2 cloves garlic, minced",
+      "1 tsp grated ginger"
+    ],
+    "preparing_time": "25 min",
+    "calories": "280 calorie",
+    "recipe_image": "https://example.com/vegetable_stir_fry.jpg"
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Mushroom Risotto",
+    "short_description": "Creamy and comforting risotto made with Arborio rice and savory mushrooms.",
+    "ingredients": [
+      "300 g Arborio rice",
+      "200 g mushrooms, sliced",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 liter vegetable broth",
+      "50 g grated Parmesan cheese",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "40 min",
+    "calories": "380 calorie",
+    "recipe_image": "https://example.com/mushroom_risotto.jpg"
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Chicken Caesar Salad",
+    "short_description": "A classic Caesar salad topped with grilled chicken breast and homemade dressing.",
+    "ingredients": [
+      "2 chicken breasts, grilled and sliced",
+      "1 head romaine lettuce, chopped",
+      "50 g croutons",
+      "30 g grated Parmesan cheese",
+      "4 tbsp Caesar dressing",
+      "1 lemon, juiced",
+      "2 cloves garlic, minced",
+      "2 tbsp olive oil"
+    ],
+    "preparing_time": "15 min",
+    "calories": "320 calorie",
+    "recipe_image": "https://example.com/caesar_salad.jpg"
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Beef Tacos",
+    "short_description": "Tasty tacos filled with seasoned ground beef, fresh veggies, and creamy guacamole.",
+    "ingredients": [
+      "500 g ground beef",
+      "8 taco shells",
+      "1 onion, chopped",
+      "1 tomato, diced",
+      "1 avocado, sliced",
+      "50 g shredded cheddar cheese",
+      "1 tsp chili powder",
+      "1 tsp cumin powder",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "30 min",
+    "calories": "380 calorie",
+    "recipe_image": "https://example.com/beef_tacos.jpg"
+  },
+  {
+    "recipe_id": "7",
+    "recipe_name": "Vegetable Curry",
+    "short_description": "A fragrant and spicy curry loaded with colorful vegetables and aromatic spices.",
+    "ingredients": [
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 bell pepper, diced",
+      "1 carrot, sliced",
+      "200 g cauliflower florets",
+      "200 g potatoes, diced",
+      "400 ml coconut milk",
+      "2 tbsp curry powder",
+      "1 tsp turmeric powder",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "35 min",
+    "calories": "300 calorie",
+    "recipe_image": "https://example.com/vegetable_curry.jpg"
+  },
+  {
+    "recipe_id": "8",
+    "recipe_name": "Caprese Salad",
+    "short_description": "A simple and refreshing salad featuring ripe tomatoes, fresh mozzarella, and fragrant basil leaves.",
+    "ingredients": [
+      "2 tomatoes, sliced",
+      "200 g fresh mozzarella, sliced",
+      "50 g fresh basil leaves",
+      "2 tbsp balsamic vinegar",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "10 min",
+    "calories": "250 calorie",
+    "recipe_image": "https://example.com/caprese_salad.jpg"
+  },
+  {
+    "recipe_id": "9",
+    "recipe_name": "Homemade Pizza",
+    "short_description": "Delicious homemade pizza topped with your favorite ingredients and gooey melted cheese.",
+    "ingredients": [
+      "Pizza dough",
+      "200 g mozzarella cheese, shredded",
+      "100 g pepperoni slices",
+      "1 bell pepper, sliced",
+      "1 onion, sliced",
+      "200 ml pizza sauce",
+      "2 tbsp olive oil",
+      "1 tsp dried oregano",
+      "1 tsp crushed red pepper flakes"
+    ],
+    "preparing_time": "40 min",
+    "calories": "400 calorie",
+    "recipe_image": "https://example.com/homemade_pizza.jpg"
+  },
+  {
+    "recipe_id": "10",
+    "recipe_name": "Banana Bread",
+    "short_description": "Moist and flavorful banana bread perfect for breakfast or as a snack.",
+    "ingredients": [
+      "3 ripe bananas, mashed",
+      "200 g all-purpose flour",
+      "100 g sugar",
+      "50 g butter, melted",
+      "1 egg",
+      "1 tsp vanilla extract",
+      "1 tsp baking powder",
+      "1/2 tsp baking soda",
+      "1/2 tsp cinnamon powder"
+    ],
+    "preparing_time": "60 min",
+    "calories": "200 calorie",
+    "recipe_image": "https://example.com/banana_bread.jpg"
+  }
+]
